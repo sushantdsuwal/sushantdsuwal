@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Suwal</h1>
 <h3 align="center">Software engineer</h3>
 
-- 🌱 I’m currently learning **Solidity, NodeJS microservies**
-
-- 💬 Ask me about **Nodejs, Solidity, React Native, flutter**
+- 🌱 I’m currently learning **Solidity**
 
 - 📫 How to reach me **sushantdsuwal@gmail.com**
 
